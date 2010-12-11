@@ -1,0 +1,4 @@
+#Source Dependencies
+#Sat Jan 16 15:18:42 CST 2010
+src_managed/android-plugin-0.3/AndroidProject.scala=src_managed/android-plugin-0.3/AndroidTestProject.scala
+src_managed/android-plugin-0.3/AndroidTestProject.scala=

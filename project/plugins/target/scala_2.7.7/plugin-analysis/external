@@ -1,0 +1,6 @@
+#External Dependencies
+#Sat Jan 16 21:46:56 CST 2010
+/Users/viirya/codes/android/projects/GClient/project/boot/scala-2.7.7/lib/scala-library.jar=src_managed/android-plugin-0.3/AndroidTestProject.scala\:src_managed/android-plugin-0.3/AndroidProject.scala
+/Users/viirya/codes/android/projects/GClient/project/plugins/lib_managed/scala_2.7.7/proguard-4.4.jar=src_managed/android-plugin-0.3/AndroidProject.scala
+/Users/viirya/codes/android/projects/GClient/project/boot/scala-2.7.7/sbt-0.5.6/sbt_2.7.7-0.5.6.jar=src_managed/android-plugin-0.3/AndroidTestProject.scala\:src_managed/android-plugin-0.3/AndroidProject.scala
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar=src_managed/android-plugin-0.3/AndroidTestProject.scala\:src_managed/android-plugin-0.3/AndroidProject.scala

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+    android:background="#000000"
+	android:gravity="center_vertical">
+    <!--
+    <ImageView   
+        android:layout_width="fill_parent"   
+        android:layout_height="wrap_content"
+        android:src="@drawable/coogle"  
+        android:layout_gravity="center"
+        android:id="@+id/IconImage">
+    </ImageView>
+    -->
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_vertical"		
+	>
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"		
+			android:text="Query:"
+		/>
+		<EditText android:id="@+id/query"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"			
+		/>
+	</LinearLayout>	
+	<Button android:id="@+id/search"
+		android:layout_height="wrap_content"
+		android:text="Search" android:layout_width="wrap_content" android:layout_gravity="center"/>
+</LinearLayout>

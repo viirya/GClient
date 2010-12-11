@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Clustering System</string>
+    <string name="cluster_label">Image clusters</string>
+    <string name="onsearch">Click search button</string>
+</resources>
